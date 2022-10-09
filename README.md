@@ -1,7 +1,7 @@
 Routing is essential in every web framework.
 There are different routing method which can be very useful according to our needs
 
-Some of the routing method that we are can are
+Some of the routing method that we are used frequently in express are as follows
 
 1. Single Callback,
 2. Morethanone Callback
